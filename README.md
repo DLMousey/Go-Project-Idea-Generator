@@ -1,5 +1,5 @@
 # Go Project Idea Generator
-Grabs a random idea from `app-idea.txt` and prints it out, truly pushing the boundaries of technology.
+Grabs a random idea from `app-ideas.txt` and prints it out, truly pushing the boundaries of technology.
 
 ## Developer Setup
 
