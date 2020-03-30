@@ -1,0 +1,5 @@
+An app that spits out app ideas
+A CLI tool that gives you ideas (like this one)
+A web API that generates app ideas
+An application that helps you stay organised
+A digital journal
