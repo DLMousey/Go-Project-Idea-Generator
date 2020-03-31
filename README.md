@@ -13,6 +13,11 @@ git clone https://github.com/DLMousey/Go-Project-Idea-Generator
 cd Go-Project-Idea-Generator
 ```
 
+- Install the dependency
+```
+go get github.com/urfave/cli
+```
+
 - Run
 ```
 go run main.go
